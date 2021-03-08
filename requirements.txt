@@ -184,7 +184,6 @@ seaborn==0.11.0
 SecretStorage==3.1.2
 Send2Trash==1.5.0
 sentencepiece==0.1.95
-setuptools==50.3.1.post20201107
 simplegeneric==0.8.1
 singledispatch==3.4.0.3
 sip==4.19.13
